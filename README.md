@@ -1,5 +1,5 @@
 # data-swr
-Manage Schemas, Workers, and Renderers for your Enterprise Data
+Manage Schemas, Watchers, and Renderers for your Enterprise Data
 
 IDEEDI: A modern cloud-hosted Integrated Development Environment (IDE) for managing Electronic Data Interchange (EDI). 
 
